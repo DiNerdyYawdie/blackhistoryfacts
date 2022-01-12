@@ -1,11 +1,11 @@
 
     [
         {
-        "name": "Test name",
-        "factTitle": "test title",
-        "factDetail": "test detail",
+        "name": "Sylvia Robinson",
+        "factTitle": "Hip-Hop's First Godmother",
+        "factDetail": "Dubbed \"Hip-Hop's First Godmother\" by Billboard, singer and music producer Sylvia Robinson produced the first-ever commercially successful rap record: \"Rapper's Delight\" by The Sugarhill Gang. And along with her husband, she co-owned the first hip-hop label, Sugar Hill Record",
         "imageUrl": "https://firebasestorage.googleapis.com/v0/b/frass-history.appspot.com/o/strains%2F84NoNJxSqTWbXPjXeoeuNH3OlIz2%2F5AC2B28A-D62B-4C1A-9E01-E6ED7F62BD7E?alt=media&token=782f358f-e6d0-4df2-9c11-e01fd696c423",
-        "country": "test country",
+        "country": "USA",
         },
         {
         "name": "Test name2",
