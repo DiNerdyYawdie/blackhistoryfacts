@@ -4,17 +4,553 @@
         "name": "Sylvia Robinson",
         "factTitle": "Hip-Hop's First Godmother",
         "factDetail": "Dubbed \"Hip-Hop's First Godmother\" by Billboard, singer and music producer Sylvia Robinson produced the first-ever commercially successful rap record: \"Rapper's Delight\" by The Sugarhill Gang. And along with her husband, she co-owned the first hip-hop label, Sugar Hill Record",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/frass-history.appspot.com/o/strains%2F84NoNJxSqTWbXPjXeoeuNH3OlIz2%2F5AC2B28A-D62B-4C1A-9E01-E6ED7F62BD7E?alt=media&token=782f358f-e6d0-4df2-9c11-e01fd696c423",
+        "imageUrl": "https://www.billboard.com/wp-content/uploads/media/Sylvia-Robinson-bb25-2019-billboard-fea-1500.jpg",
         "country": "USA",
         "source": "https://www.billboard.com/music/rb-hip-hop/sugar-hill-records-sylvia-robinson-hip-hop-godmother-8533108/"
         },
         {
         "name": "Nat King Cole",
-        "factTitle": " the first Black American to host a TV show: NBC's The Nat King Cole Show.",
+        "factTitle": " First Black American to host a TV show: NBC's The Nat King Cole Show.",
         "factDetail": "Renowned singer and jazz pianist, Nat King Cole, was the first Black American to host a TV show: NBC's The Nat King Cole Show.",
-        "imageUrl": "https://image.tmdb.org/t/p/original/pThyQovXQrw2m0s9x82twj48Jq4.jpg",
+        "imageUrl": "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTgwOTI0Njc4ODg0MzA0MjMy/nat-king-cole.jpg",
         "country": "USA",
          "source": "https://www.biography.com/musician/nat-king-cole"
+        },
+        {
+        "name": "Stevie Wonder",
+        "factTitle": "The first Black artist to win a Grammy for Album of the Year for 1973's Innervisions",
+        "factDetail": "Stevie Wonder is not only the first Black artist to win a Grammy for Album of the Year for 1973's Innervisions, but the first and only musician to win Album Of The Year with three consecutive studio albums.",
+        "imageUrl": "",
+        "country": "USA",
+         "source": "https://www.grammy.com/grammys/artists/stevie-wonder/8257"
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
+        },
+        {
+        "name": "",
+        "factTitle": "",
+        "factDetail": "",
+        "imageUrl": "",
+        "country": "",
+         "source": ""
         }
     ]
 
